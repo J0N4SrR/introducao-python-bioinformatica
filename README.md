@@ -1,6 +1,6 @@
 # 🧬 Introdução ao Python para Bioinformática e Saúde
 
-A proposta inicial desse repositório é reunir, em um único ambiente, o acesso às minhas aulas e materiais de apoio, além de promover a construção de um ecossistema de aprendizado voltado à alfabetização digital e à capacitação de profissionais das Ciências da Saúde.
+A proposta inicial desse repositório é reunir, em um único ambiente, o acesso às minhas aulas e materiais de apoio, além de promover a construção de um ecossistema de aprendizado voltado à alfabetização digital e à capacititação de profissionais das Ciências da Saúde.
 
 As aulas foram desenvolvidas com foco em situações do cotidiano profissional, tornando o aprendizado mais prático e significativo. A lógica de programação é apresentada de forma aplicada, utilizando contextos reais de áreas como Análises Clínicas, Epidemiologia e Genética Molecular, aproximando a tecnologia da realidade vivenciada pelos estudantes e profissionais da saúde.
 

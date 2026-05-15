@@ -1,6 +1,6 @@
 # 🧬 Introdução ao Python para Bioinformática e Saúde
 
-A proposta inicial desse repositório é reunir, em um único ambiente, o acesso às minhas aulas e materiais de apoio, além de promover a construção de um ecossistema de aprendizado voltado à alfabetização digital e à capacititação de profissionais das Ciências da Saúde.
+A proposta inicial desse repositório é reunir, em um único ambiente, o acesso às minhas aulas e materiais de apoio, além de promover a construção de um ecossistema de aprendizado voltado à alfabetização digital e à capacitação de profissionais das Ciências da Saúde.
 
 As aulas foram desenvolvidas com foco em situações do cotidiano profissional, tornando o aprendizado mais prático e significativo. A lógica de programação é apresentada de forma aplicada, utilizando contextos reais de áreas como Análises Clínicas, Epidemiologia e Genética Molecular, aproximando a tecnologia da realidade vivenciada pelos estudantes e profissionais da saúde.
 
@@ -10,7 +10,7 @@ As aulas foram desenvolvidas com foco em situações do cotidiano profissional, 
 
 Capacitar profissionais e estudantes das Ciências da Saúde na utilização da linguagem Python como ferramenta para a resolução de problemas, integrando lógica de programação, bioestatística e bioinformática às práticas clínicas e laboratoriais.
 
-* **Fundamentação Técnica e Raciocínio Lógico**: Introduzir conceitos de Lógica de Programação adaptados ao raciocínio clínico (Aula 00 e Aula 02).
+* **Fundamentação Técnica e Raciocínio Lógico**: Introduzir conceitos de Lógica de Programação adaptados ao raciocínio clínico (Aula 00, Aula 01 e Aula 02).
 * **Manipulação e Análise de Dados Biológicos**: Processamento e análise de dados genômicos e sequências de DNA utilizando Python (Aula 03).
 * **Automação e Protocolos Digitais**: Criação de funções e estruturas de repetição para otimização de fluxos de trabalho e triagens (Aula 04).
 * **Interdisciplinaridade**: Fornecer uma base sólida em conceitos iniciais de Bioinformática e Ciência de Dados aplicados à saúde.
@@ -24,7 +24,7 @@ A organização do material segue uma progressão de complexidade:
 * **`/aulas`**: Notebooks interativos (.ipynb) contendo:
     * **Aula00**: Contextualização Inicial, Ambiente de Trabalho, LGPD.
     * **Aula01**: Variáveis, tipos de dados e operações aritméticas.
-    * **Aula 02**: Estruturas condicionais e lógica de triagem clínica.
+    * **Aula02**: Estruturas condicionais e lógica de triagem clínica.
     * **Aula03**: Manipulação de strings (DNA), Listas, Tuplas e Dicionários.
     * **Aula04**: Estruturas de repetição (Loops) e definição de funções.
 * **`/exercicios`**: Listas de fixação baseadas em casos reais (Cálculo de IMC, Manchester e análise de fragmentos).

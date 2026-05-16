@@ -1,0 +1,11 @@
+id_paciente,nome,idade_anos,Glicemia (mg/dL),HbA1c_estimada(%) ,status_vacinado
+PAC_01,Enzo,19,120,5.8,True
+PAC_02,Valentina,18,85,4.6,False
+PAC_03,Cauã,20,200,8.6,True
+PAC_04,Sophia,22,95,4.9,True
+PAC_05,Miguel,25,140,6.5,False
+PAC_06,Helena,30,110,5.5,True
+PAC_07,Theo,27,175,7.7,False
+PAC_08,Laura,21,88,4.7,True
+PAC_09,Gabriel,24,300,12.1,True
+PAC_10,Alice,26,210,8.9,False

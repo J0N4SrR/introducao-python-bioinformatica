@@ -13,6 +13,7 @@ Capacitar profissionais e estudantes das Ciências da Saúde na utilização da 
 * **Fundamentação Técnica e Raciocínio Lógico**: Introduzir conceitos de Lógica de Programação adaptados ao raciocínio clínico (Aula 00, Aula 01 e Aula 02).
 * **Manipulação e Análise de Dados Biológicos**: Processamento e análise de dados genômicos e sequências de DNA utilizando Python (Aula 03).
 * **Automação e Protocolos Digitais**: Criação de funções e estruturas de repetição para otimização de fluxos de trabalho e triagens (Aula 04).
+* **Processamento de Dados em Larga Escala**: Introdução à vetorização, simulação de dados clínicos e cálculo matricial com NumPy (Aula 05).
 * **Interdisciplinaridade**: Fornecer uma base sólida em conceitos iniciais de Bioinformática e Ciência de Dados aplicados à saúde.
 
 ---
@@ -27,6 +28,7 @@ A organização do material segue uma progressão de complexidade:
     * **Aula02**: Estruturas condicionais e lógica de triagem clínica.
     * **Aula03**: Manipulação de strings (DNA), Listas, Tuplas e Dicionários.
     * **Aula04**: Estruturas de repetição (Loops) e definição de funções.
+    * **Aula05**: Importação de bibliotecas, arrays multidimensionais e máscaras booleanas (NumPy).
 * **`/exercicios`**: Listas de fixação baseadas em casos reais (Cálculo de IMC, Manchester e análise de fragmentos).
 * **`/data`**: Conjuntos de dados simulados utilizados nas práticas (sequências FASTA e bancos de pacientes).
 * **`/assets`**: Diagramas, fluxogramas de decisão e infográficos didáticos.
